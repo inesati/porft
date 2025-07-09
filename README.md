@@ -1,4 +1,4 @@
-# porfolio 
+# portfolio 
 # 🌐 Portfolio Website
 
 This is a personal portfolio website designed to showcase my work, skills, and experiences as a software developer and creative professional. The website includes multiple sections and pages such as Home, Projects, Gallery, and Experience.
